@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello world conflict dari Budi
+=======
+Hello world conflict dari Surya
+>>>>>>> 784c2592f7d6a62be24505339af54056f650fb7f
 
 Test dari Surya
 
